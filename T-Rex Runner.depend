@@ -1,0 +1,191 @@
+# depslib dependency file v1.0
+1526480564 source:d:\algorithm\projects\t-rex runner\clouds.cpp
+	"Clouds.hpp"
+
+1526481029 d:\algorithm\projects\t-rex runner\clouds.hpp
+	"CloudObject.hpp"
+	<deque>
+	<cstdlib>
+
+1526319559 d:\algorithm\projects\t-rex runner\cloudobject.hpp
+	"BaseObject.hpp"
+	"ScreenSize.hpp"
+	<cstdlib>
+
+1526480564 d:\algorithm\projects\t-rex runner\baseobject.hpp
+	"TextureUtils.hpp"
+	"ScreenSize.hpp"
+	<vector>
+	<iostream>
+
+1526318585 d:\algorithm\projects\t-rex runner\textureutils.hpp
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+
+1526318854 d:\algorithm\projects\t-rex runner\screensize.hpp
+
+1526524368 source:d:\algorithm\projects\t-rex runner\collisionutils.cpp
+	"CollisionUtils.hpp"
+
+1526359022 d:\algorithm\projects\t-rex runner\collisionutils.hpp
+	"BaseObject.hpp"
+
+1526531151 source:d:\algorithm\projects\t-rex runner\ground.cpp
+	"Ground.hpp"
+
+1526481029 d:\algorithm\projects\t-rex runner\ground.hpp
+	"TextureUtils.hpp"
+	"ScreenSize.hpp"
+
+1526448104 source:d:\algorithm\projects\t-rex runner\main.cpp
+	"Game.hpp"
+
+1526523627 d:\algorithm\projects\t-rex runner\game.hpp
+	<iostream>
+	<ctime>
+	"ScreenSize.hpp"
+	"CollisionUtils.hpp"
+	"SoundUtils.hpp"
+	"Ground.hpp"
+	"Clouds.hpp"
+	"Score.hpp"
+	"PlayerObject.hpp"
+	"Obstacles.hpp"
+
+1526403165 d:\algorithm\projects\t-rex runner\soundutils.hpp
+	<SDL2/SDL_mixer.h>
+
+1526481029 d:\algorithm\projects\t-rex runner\score.hpp
+	"DigitObject.hpp"
+	"TextureUtils.hpp"
+
+1526013451 d:\algorithm\projects\t-rex runner\digitobject.hpp
+	"BaseObject.hpp"
+
+1526531006 d:\algorithm\projects\t-rex runner\playerobject.hpp
+	"BaseObject.hpp"
+
+1526481029 d:\algorithm\projects\t-rex runner\obstacles.hpp
+	"CactusObject.hpp"
+	"BirdObject.hpp"
+	<deque>
+
+1526531419 d:\algorithm\projects\t-rex runner\cactusobject.hpp
+	"BaseObject.hpp"
+	<cstdlib>
+
+1526527474 d:\algorithm\projects\t-rex runner\birdobject.hpp
+	"BaseObject.hpp"
+	<cstdlib>
+	<cmath>
+
+1526527474 source:d:\algorithm\projects\t-rex runner\obstacles.cpp
+	"Obstacles.hpp"
+
+1526530916 source:d:\algorithm\projects\t-rex runner\playerobject.cpp
+	"PlayerObject.hpp"
+
+1526480563 source:d:\algorithm\projects\t-rex runner\score.cpp
+	"Score.hpp"
+
+1526480563 source:d:\algorithm\projects\t-rex runner\textureutils.cpp
+	"TextureUtils.hpp"
+
+1526527474 source:d:\algorithm\projects\t-rex runner\game.cpp
+	"Game.hpp"
+
+1526480564 source:d:\algorithm\projects\t-rex-runner\clouds.cpp
+	"Clouds.hpp"
+
+1526481029 d:\algorithm\projects\t-rex-runner\clouds.hpp
+	"CloudObject.hpp"
+	<deque>
+	<cstdlib>
+
+1526319559 d:\algorithm\projects\t-rex-runner\cloudobject.hpp
+	"BaseObject.hpp"
+	"ScreenSize.hpp"
+	<cstdlib>
+
+1526480564 d:\algorithm\projects\t-rex-runner\baseobject.hpp
+	"TextureUtils.hpp"
+	"ScreenSize.hpp"
+	<vector>
+	<iostream>
+
+1526318585 d:\algorithm\projects\t-rex-runner\textureutils.hpp
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+
+1526318854 d:\algorithm\projects\t-rex-runner\screensize.hpp
+
+1526524368 source:d:\algorithm\projects\t-rex-runner\collisionutils.cpp
+	"CollisionUtils.hpp"
+
+1526359022 d:\algorithm\projects\t-rex-runner\collisionutils.hpp
+	"BaseObject.hpp"
+
+1526535810 source:d:\algorithm\projects\t-rex-runner\game.cpp
+	"Game.hpp"
+
+1526523627 d:\algorithm\projects\t-rex-runner\game.hpp
+	<iostream>
+	<ctime>
+	"ScreenSize.hpp"
+	"CollisionUtils.hpp"
+	"SoundUtils.hpp"
+	"Ground.hpp"
+	"Clouds.hpp"
+	"Score.hpp"
+	"PlayerObject.hpp"
+	"Obstacles.hpp"
+
+1526403165 d:\algorithm\projects\t-rex-runner\soundutils.hpp
+	<SDL2/SDL_mixer.h>
+
+1526481029 d:\algorithm\projects\t-rex-runner\ground.hpp
+	"TextureUtils.hpp"
+	"ScreenSize.hpp"
+
+1526481029 d:\algorithm\projects\t-rex-runner\score.hpp
+	"DigitObject.hpp"
+	"TextureUtils.hpp"
+
+1526013451 d:\algorithm\projects\t-rex-runner\digitobject.hpp
+	"BaseObject.hpp"
+
+1526531006 d:\algorithm\projects\t-rex-runner\playerobject.hpp
+	"BaseObject.hpp"
+
+1526481029 d:\algorithm\projects\t-rex-runner\obstacles.hpp
+	"CactusObject.hpp"
+	"BirdObject.hpp"
+	<deque>
+
+1526531419 d:\algorithm\projects\t-rex-runner\cactusobject.hpp
+	"BaseObject.hpp"
+	<cstdlib>
+
+1526527474 d:\algorithm\projects\t-rex-runner\birdobject.hpp
+	"BaseObject.hpp"
+	<cstdlib>
+	<cmath>
+
+1526531151 source:d:\algorithm\projects\t-rex-runner\ground.cpp
+	"Ground.hpp"
+
+1526448104 source:d:\algorithm\projects\t-rex-runner\main.cpp
+	"Game.hpp"
+
+1526527474 source:d:\algorithm\projects\t-rex-runner\obstacles.cpp
+	"Obstacles.hpp"
+
+1526530916 source:d:\algorithm\projects\t-rex-runner\playerobject.cpp
+	"PlayerObject.hpp"
+
+1526480563 source:d:\algorithm\projects\t-rex-runner\score.cpp
+	"Score.hpp"
+
+1526480563 source:d:\algorithm\projects\t-rex-runner\textureutils.cpp
+	"TextureUtils.hpp"
+
