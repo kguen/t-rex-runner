@@ -173,14 +173,13 @@ void Game::checkCollision() {
         if (collide(player, obstacleLists[i])) {
             lost = true;
             player->die();
+            soundEffects->playHitSound();
 
             if (highScore == nullptr) {
                 highScore = new Score(screenWidth - 230, 16);
             }
             if (highScore->getScore() < score->getScore()) {
-
                 highScore->update(frameCount);
-                soundEffects->playHitSound();
             }
         }
     }
