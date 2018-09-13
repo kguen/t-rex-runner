@@ -54,6 +54,7 @@ void Game::reset() {
     bgColorCode = 247;
 
     lost = false;
+    nightModeOn = false;
 }
 
 void Game::handleEvents() {
